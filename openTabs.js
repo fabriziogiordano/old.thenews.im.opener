@@ -26,7 +26,7 @@ async function openLinksBulk(el) {
     getLinks = getDesignerNewsLinks;
   }
   if (el === "ProductHunt") {
-    getLinks = getDesignerNewsLinks;
+    getLinks = getProductHuntLinks;
   }
 
   chrome.scripting.executeScript(
