@@ -1,7 +1,7 @@
 {
-  "name": "The New Tap Opener 1.0",
-  "description": "Open multiple tabs for link in HackerNews",
-  "version": "1.0",
+  "name": "The News 2 Multi Tab Opener",
+  "description": "Quickly open all links in The News 2 site",
+  "version": "1.0.1",
   "manifest_version": 3,
   "permissions": ["storage", "activeTab", "scripting", "tabs"],
   "action": {
