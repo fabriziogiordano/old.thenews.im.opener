@@ -1,9 +1,9 @@
 {
   "name": "The News 2 Multi Tab Opener",
   "description": "Quickly open all links in The News 2 site",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 3,
-  "permissions": ["storage", "activeTab", "scripting", "tabs"],
+  "permissions": ["activeTab", "scripting"],
   "action": {
     "default_popup": "openTabs.html",
     "default_icon": {
